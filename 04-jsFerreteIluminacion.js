@@ -21,6 +21,7 @@ function CalcularPrecio() {
     let descuentoUno;
     let precioConDescuento;
     let totalPagado;
+    let iibb;
 
 
     cantidadLamparas = parseInt(document.getElementById("txtIdCantidad").value);
